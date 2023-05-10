@@ -1,2 +1,5 @@
 # TrueWalle-Express
- forFivem
+npm run dev 
+
+
+and open localhost:4001
